@@ -1,0 +1,26 @@
+{
+  "name": "predix-ng2-seed-app",
+  "description": "Seed application to start building web-app on Predix-UI & ng2",
+  "main": "",
+  "authors": [
+    "Sumeet Singh <sumeet_singh04@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Predix-UI",
+    "Angular2",
+    "Seed"
+  ],
+  "homepage": "https://github.com/sumeet-singh04/predix-ng2-seed-app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "px-starter-kit-design": "^0.7.2",
+    "px-app-nav": "^1.10.3"
+  }
+}

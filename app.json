@@ -1,0 +1,7 @@
+{
+  "name": "Predix Ng2 seed application",
+  "description": "A barebones Predix-UI and angular 2 application",
+  "repository": "https://github.com/sumeet-singh04/predix-ng2-seed-app",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static", "predix-ui", "angular 2"]
+}

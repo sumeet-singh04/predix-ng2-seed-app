@@ -1,5 +1,6 @@
 # PredixNg2SeedApp
 
+This is seed application that uses Angular 2  and Polymer/Predix-UI WebComponents.
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.
 
 ## Development server

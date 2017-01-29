@@ -7,6 +7,7 @@
 @import "px-helpers-design/_generic.helpers.scss";
 
 $desk-wide-max-width: 100%;
+$viewport-margin: 0px;
 // Base
 @import "px-flexbox-design/_base.flexbox.scss";
 @import "px-viewport-design/_base.viewport.scss";

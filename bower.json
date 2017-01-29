@@ -21,6 +21,6 @@
   ],
   "dependencies": {
     "px-starter-kit-design": "^0.7.2",
-    "px-app-nav": "^1.10.3"
+    "px-app-nav": "^1.10.4"
   }
 }

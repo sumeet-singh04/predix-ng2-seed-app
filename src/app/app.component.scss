@@ -1,18 +1,30 @@
+@import "../assets/bower_components/px-colors-design/_settings.colors.scss";
+
 :host {
   height: 100%;
   width: 100%;
 
   header {
+    margin: auto;
     height: 60px;
     max-height: 60px;
+    color: $white;
   }
 
   footer {
     height: 60px;
     max-height: 60px;
+    padding-right: 100px;
   }
 
-  section.content {
-    background: white;
+  section {
+    &.content {
+      height: 100%;
+      background: white;
+    }
+
+    &.main-content {
+      width: 100%;
+    }
   }
 }
